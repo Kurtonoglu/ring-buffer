@@ -1,0 +1,10 @@
+# Build output
+build/
+
+# Coverage data
+*.gcda
+*.gcno
+*.gcov
+
+# Editor
+.vscode/
